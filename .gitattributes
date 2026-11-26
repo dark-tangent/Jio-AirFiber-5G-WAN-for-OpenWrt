@@ -1,0 +1,4 @@
+*.sh text eol=lf
+*.md text eol=lf
+files/dhcpv6.script text eol=lf
+files/odhcp6c binary
